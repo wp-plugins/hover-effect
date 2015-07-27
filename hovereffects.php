@@ -2,7 +2,7 @@
 /*
 Plugin Name: KK Hover Effects
 Plugin URL: 
-Description: Allow user to create 3D button hover effects
+Description: Allow user to create CSS3 Link effect
 Version: 1.0.0
 Author: KK
 Author URI: 
@@ -57,13 +57,13 @@ function hovereffect_help($instance)
                     <br> 
 
                 
-                   To use hover effect for links  [hovebtn class="hover effect type" hrefvalue="page or website url" ]Text to dispay[/hovebtn] <br><br>
+                   To use hover effect for links  [hoverbtn class="hover effect type" hrefvalue="page or website url" ]Text to dispay[/hoverbtn] <br><br>
 
                    Set effect value in <b>class</b><br>
                    Set Page or website url in <b>hrefvalue</b><br>
                    Replace your link text with <b>Text to dispay</b><br>
 
-                   eg.  [hovebtn class="sub-a" hrefvalue="http://www.google.com" ]Google[/hovebtn] <br><br>
+                   eg.  [hoverbtn class="sub-a" hrefvalue="http://www.google.com" ]Google[/hoverbtn] <br><br>
 
 
 
@@ -90,4 +90,4 @@ function get_kk_hovereffect( $attributes, $content = null)
 
 }
 //shortcode
-add_shortcode('hovebtn','get_kk_hovereffect');
+add_shortcode('hoverbtn','get_kk_hovereffect');

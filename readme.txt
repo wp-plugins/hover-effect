@@ -23,7 +23,7 @@ Step 1: Download Hover Effect Plugins
 
 Step 2: Login to your wordpress website admin panel
 
-Step 3: Unzip online-booking-engine.zip and Upload online-booking-engine directory to the /wp-content/plugins/ directory
+Step 3: Unzip hover-effect.zip and Upload online-booking-engine directory to the /wp-content/plugins/ directory
 
 Step 4: Activate the plugin through the 'Plugins' menu in WordPress
 
@@ -33,13 +33,13 @@ Step 5:          Plugin allow to set to 2 type of hover button effects for link
                     1. sub-a
                     2. sub-b    
                                
-                   To use hover effect for links  [hovebtn class="hover effect type" hrefvalue="page or website url" ]Text to dispay[/hovebtn]
+                   To use hover effect for links  [hoverbtn class="hover effect type" hrefvalue="page or website url" ]Text to dispay[/hoverbtn]
 
                    Set effect value in class
                    Set Page or website url in hrefvalue
                    Replace your link text with Text to dispay
 
-                   eg.  [hovebtn class="sub-a" hrefvalue="http://www.google.com" ]Google[/hovebtn] <br><br>
+                   eg.  [hoverbtn class="sub-a" hrefvalue="http://www.google.com" ]Google[/hoverbtn] <br><br>
 
 == Screenshots ==
     
