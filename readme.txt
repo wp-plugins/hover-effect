@@ -1,5 +1,5 @@
 === Hower effect for Links ===
-Contributors: kamlesh4kumar
+Contributors: kamleshkumar4u
 Donate link: 
 Tags: Link Hover effect, Links hover animation, Link button hover effect, Link css3 hover effect
 Requires at least: 3.0.1
